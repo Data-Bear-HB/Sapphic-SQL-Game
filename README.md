@@ -3,8 +3,9 @@ A silly, query-based game that tells the story a recently out lesbian introducin
 __________________________________________________________
 
 ## Tools Used
-: Excel
-: SQL
+: Excel (to create the tables and formulate the data)
+: SQL (to create the game play sequence)
+: Tableau (for visualizations)
 
 ____________________
-Game Premise: A old friend, Emily, just moved to your city from. She's a newly out lesbian and ready to meet new friends. Introduce her to the queer community andhelp her find her people. 
+Game Premise: A old friend, Emily, just moved to your city. She's a newly "out" baby queer and ready to meet new friends. Introduce her to the queer community and help her find  friends. 
